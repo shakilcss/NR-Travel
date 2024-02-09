@@ -946,10 +946,6 @@ footer {
     margin-top: 40px;
 }
 
-*{
-    border: 1px solid yellow;
-}
-
 @media screen and (min-width: 365px) and (max-width: 576px) {
     nav {
         width: auto;
@@ -1430,9 +1426,4 @@ footer {
     .line-02 {
         width: 80%;
     }
-
-    * {
-        border: 1px solid yellow;
-    }
-
 }
